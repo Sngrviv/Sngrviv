@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek07&label=Profile%20views&color=0e75b6&style=flat" alt="vivek07" /> </p>
 
-- 🔭 I’m currently working on [Gene Identification using Hidden markov model](https://github.com/Sngrviv/Gene_Identification)
+-  I am Currently Working ChatApp and CustomerService Platform For My EY TECHATHON by Unstop!!
 
-- 🌱 I’m currently learning **Vision Transformers ,PyTorch, HuggingFace ,MAX Platform ,Firebase, Kivy**
+- 🔭 I've worked on [Gene Identification using Hidden markov model](https://github.com/Sngrviv/Gene_Identification)
+
+- 🌱 I’m currently learning **Vision Transformers,PyTorch, HuggingFace , RAG and HyDE , AGENTIC AI **
 
 - 👯 I’m looking to collaborate on [Amayori-Lang Compiler](https://github.com/Rakrocks18/Amayori-Lang)
 
@@ -15,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cdvivek](https://github.com/Cdvivek)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KOrZOwdcR-vGYKlQBHtJw4uCMKkIFyDC/view?usp=drive_link](https://drive.google.com/file/d/1KOrZOwdcR-vGYKlQBHtJw4uCMKkIFyDC/view?usp=drive_link)
+- 📄 Know about my experiences[RESUME] [https://drive.google.com/file/d/1KOrZOwdcR-vGYKlQBHtJw4uCMKkIFyDC/view?usp=drive_link](https://drive.google.com/file/d/1KOrZOwdcR-vGYKlQBHtJw4uCMKkIFyDC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
