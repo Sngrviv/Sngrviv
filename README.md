@@ -45,12 +45,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Sngrviv&show_icons=true&theme=gruvbox" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sngrviv&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sngrviv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
