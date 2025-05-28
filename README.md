@@ -21,6 +21,10 @@
 
 ---
 
+###Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sngrviv)](https://github.com/Sngrviv/github-readme-stats)
+
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/vivek ranalkar" target="_blank">
