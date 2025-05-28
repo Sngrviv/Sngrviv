@@ -50,11 +50,11 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sngrviv&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sngrviv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=codedthoughts&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
