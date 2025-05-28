@@ -11,8 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on a **ChatApp & Customer Service Platform** for **EY TECHATHON by Unstop**
-- 🧬 Worked on: [Gene Identification using Hidden Markov Model](https://github.com/Sngrviv/Gene_Identification)
+- 🔭 I’m currently working on a **Article Clustering in NLP** for **Industry**
 - 🌱 Learning: **Vision Transformers, PyTorch, Hugging Face, RAG, HyDE, Agentic AI**
 - 👯 Collaborating on: [Amayori-Lang Compiler](https://github.com/Rakrocks18/Amayori-Lang)
 - 🤝 Looking for help with: [Online Course Platform](https://github.com/Cdvivek/Wt_project)
@@ -24,11 +23,12 @@
 **Github Stats**
 
 <a href="https://github.com/Sngrviv/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sngrviv" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sngrviv&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/Sngrviv/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sngrviv&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sngrviv&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 
 
 
@@ -41,6 +41,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Sngrviv/Sngrviv/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
