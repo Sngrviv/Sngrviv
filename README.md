@@ -21,7 +21,7 @@
 
 ---
 
-###Github Stats
+**Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sngrviv)](https://github.com/Sngrviv/github-readme-stats)
 
