@@ -15,7 +15,7 @@
 - 🌱 Learning: **Agentic AI, RAG, Neural networks, HyDE, n8n**
 - 👯 Collaborating on: [Amayori-Lang Compiler]([https://github.com/Rakrocks18/Amayori-Lang](https://github.com/Sngrviv/Chimera-Lang))
 - 💻 All my projects: [GitHub Portfolio](https://github.com/Cdvivek)
-- 📄 Resume: [View Here]([https://drive.google.com/file/d/1KOrZOwdcR-vGYKlQBHtJw4uCMKkIFyDC/view?usp=drive_link](https://docs.google.com/document/d/10RTojlQofSDNPZ0lrBfy0vr6SDwV5PB6/edit?usp=sharing&ouid=103019426430130793010&rtpof=true&sd=true))
+- 📄 Resume: [View Here](https://docs.google.com/document/d/10RTojlQofSDNPZ0lrBfy0vr6SDwV5PB6/edit?usp=sharing&ouid=103019426430130793010&rtpof=true&sd=true)
 
 ---
 
